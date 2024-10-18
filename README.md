@@ -5,18 +5,18 @@ code available soon...!
 
 ## Photos
 
-![photo1](../CASTIFY/assets/photo1.png)
+![photo1](../assets/photo1.png)
 
-![photo2](../CASTIFY/assets/photo2.png)
+![photo2](../assets/photo2.png)
 
-![photo3](../CASTIFY/assets/photo8.png)
+![photo3](../assets/photo8.png)
 
-![photo4](../CASTIFY/assets/photo3.png)
+![photo4](../assets/photo3.png)
 
-![photo5](../CASTIFY/assets/photo4.png)
+![photo5](../assets/photo4.png)
 
-![photo6](../CASTIFY/assets/photo5.png)
+![photo6](../assets/photo5.png)
 
-![photo7](../CASTIFY/assets/photo6.png)
+![photo7](../assets/photo6.png)
 
-![photo8](../CASTIFY/assets/photo7.png)
+![photo8](../assets/photo7.png)
